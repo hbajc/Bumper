@@ -1,6 +1,6 @@
 # Home Assistant 插件：Bumper
 
-这是一个扫地机器人的本地服务器
+这是一个扫地机器人的本地服务器xxxxxxxxxx
 
 ## 关于
 
